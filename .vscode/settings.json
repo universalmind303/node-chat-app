@@ -10,7 +10,7 @@
     "tslint.ignoreDefinitionFiles": false,
     "tslint.autoFixOnSave": true,
     "tslint.exclude": "**/node_modules/**/*",
-    "cSpell.words": [
+    "Spell.words": [
         "csrf",
         "definitelytyped",
         "promisified"
